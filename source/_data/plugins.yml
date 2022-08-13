@@ -1,3 +1,12 @@
+- name: hexo-plugin-tabs
+  description: 为文章创建可切换版本的页面 | Create styled tabs in posts
+  link: https://github.com/sclass53/hexo-plugin-tabs
+  tags:
+    - tabs
+    - files
+    - switch
+    - version
+    - styled
 - name: hexo-hash
   description: 为静态资源创建哈希版本 | Create hash versions for static resources
   link: https://github.com/Lete114/Hexo-hash
